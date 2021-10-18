@@ -5,5 +5,5 @@ y los comandos pricipales **mongoDB**.
 metodos asociados a la insercion de datos en **mongoDB** y su posterior manipulación
 * En la carpeta *sources* encontrarás un *chuletario* con los metodos más comunes.
 
-Mi nombre es **Adrian Ramos Colon** y esto es el ejercicio: **Primer proyecto Visual Studio Code y MongoDB**
+<p align="center">Mi nombre es **Adrian Ramos Colon** y esto es el ejercicio: **Primer proyecto Visual Studio Code y MongoDB**</p>
 
