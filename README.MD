@@ -1,4 +1,4 @@
-<p align="center"> ## Instalación de VScode, mogoDB y primeros comandos </p>
+<h1 align="center"> Instalación de VScode, mogoDB y primeros comandos </h1>
 * En la carpeta *doc* podrás encontrar un *pdf* donde se explica con detalle la instalacion 
 y los comandos pricipales **mongoDB**. 
 * En la carpeta *src* se adjuntan dos ficheros *.js*con 
